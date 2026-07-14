@@ -1,0 +1,10 @@
+{
+  "latestVersionCode": 2,
+  "latestVersionName": "1.1",
+  "bundledDatabaseVersion": 31,
+  "releaseNotes": "完善进化链、形态技能表与技能分类，优化 Champions 页面布局",
+  "downloads": {
+    "gitee": "https://gitee.com/natsuya/poke-dex/releases/tag/v1.1",
+    "github": "https://github.com/NatusYaHanabi/PokeDexAPK/releases/tag/v1.1"
+  }
+}
