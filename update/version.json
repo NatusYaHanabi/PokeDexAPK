@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 2,
-  "latestVersionName": "1.1",
-  "bundledDatabaseVersion": 31,
-  "releaseNotes": "完善进化链、形态技能表与技能分类，优化 Champions 页面布局",
+  "latestVersionCode": 3,
+  "latestVersionName": "1.1.1",
+  "bundledDatabaseVersion": 33,
+  "releaseNotes": "新增道具图鉴与特性图鉴（分页搜索、筛选与正式详情页）；Champions 对战数据更新至 M-5 赛季并接入官方赛事数据；精灵图镜像竞速与缓存体系重构，加载更快更稳；多项稳定性修复；内置数据库更新至 33。",
   "downloads": {
-    "gitee": "https://gitee.com/natsuya/poke-dex/releases/tag/v1.1",
-    "github": "https://github.com/NatusYaHanabi/PokeDexAPK/releases/tag/v1.1"
+    "github": "https://github.com/NatusYaHanabi/PokeDexAPK/releases/tag/v1.1.1",
+    "gitee": "https://gitee.com/natsuya/poke-dex-apk/releases/tag/v1.1.1"
   }
 }
