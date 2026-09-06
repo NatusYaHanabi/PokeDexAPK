@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 4,
-  "latestVersionName": "1.1.2",
-  "bundledDatabaseVersion": 33,
-  "releaseNotes": "新增道具图鉴与特性图鉴（分页搜索、筛选与正式详情页）；Champions 对战数据更新至 M-5 赛季并接入官方赛事数据；精灵图镜像竞速与缓存体系重构，加载更快更稳；修复应用内打开下载页的浏览器跳转；多项稳定性修复；内置数据库更新至 33。",
+  "latestVersionCode": 5,
+  "latestVersionName": "1.2.0",
+  "bundledDatabaseVersion": 34,
+  "releaseNotes": "新增技能图鉴：分页搜索、属性/分类/世代三维筛选，详情页含可习得宝可梦与招式机器；特性/道具/技能详情页视觉与信息密度对齐宝可梦图鉴设计；修复精灵图因镜像异常响应导致的永久空白；修复技能描述出现占位文案的问题；补齐 71 个技能简中名与洗翠 24 个技能的中文说明；内置数据库更新至 34。",
   "downloads": {
-    "github": "https://github.com/NatusYaHanabi/PokeDexAPK/releases/tag/v1.1.2",
-    "gitee": "https://gitee.com/natsuya/poke-dex-apk/releases/tag/v1.1.2"
+    "github": "https://github.com/NatusYaHanabi/PokeDexAPK/releases/tag/v1.2.0",
+    "gitee": "https://gitee.com/natsuya/poke-dex-apk/releases/tag/v1.2.0"
   }
 }
